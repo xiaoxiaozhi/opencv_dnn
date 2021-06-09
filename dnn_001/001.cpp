@@ -8,6 +8,7 @@ using namespace cv::dnn;
 using namespace std;
 
 vector<string> readLabels();
+//ÕºœÒ∑÷¿‡
 int main(int argc, char** argv) {
 
 	string bin_model = "./bvlc_googlenet.caffemodel";//
